@@ -33,9 +33,12 @@ Our sentiment analysis tool offers a range of features including:
 
 ## Compare Model
 
-![16](https://github.com/tieugem1997/Sentiment_Streamlit_Tiki/assets/39017335/be884b5c-9340-48cc-964d-af9330c21f1c)
-![15](https://github.com/tieugem1997/Sentiment_Streamlit_Tiki/assets/39017335/815771ac-dd95-4493-a440-23533bcd7378)
 ![14](https://github.com/tieugem1997/Sentiment_Streamlit_Tiki/assets/39017335/878ac340-65b5-431f-9034-8991a22ef58d)
+
+![15](https://github.com/tieugem1997/Sentiment_Streamlit_Tiki/assets/39017335/815771ac-dd95-4493-a440-23533bcd7378)
+
+![16](https://github.com/tieugem1997/Sentiment_Streamlit_Tiki/assets/39017335/be884b5c-9340-48cc-964d-af9330c21f1c)
+
 
 ## Technologies Used
 
