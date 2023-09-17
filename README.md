@@ -10,7 +10,7 @@ Welcome to my Sentiment Analysis Project. Leveraging the power of machine learni
 
 Witness the app in action through our video demonstration!
 
-[Watch the Video Demo]([https://github-production-user-asset-6210df.s3.amazonaws.com/39017335/266809601-e87e6c47-e30d-43e8-93a2-958b297b30d2.mp4](https://github.com/tieugem1997/Sentiment_Streamlit_Tiki/assets/39017335/ef8d1663-24ce-4f2e-b660-06d8182746b6))
+[Watch the Video Demo](https://github.com/tieugem1997/Sentiment_Streamlit_Tiki/assets/39017335/ef8d1663-24ce-4f2e-b660-06d8182746b6)
 
 ## Live Demo
 
