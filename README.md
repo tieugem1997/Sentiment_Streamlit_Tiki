@@ -16,7 +16,7 @@ Witness the app in action through our video demonstration!
 
 Experience the live demo of our sentiment analysis tool here:
 
-[Explore the Live Demo](https://https://sentiment-app-tiki.streamlit.app/)
+[Explore the Live Demo](https://sentiment-app-tiki.streamlit.app/)
 
 ## Features
 
